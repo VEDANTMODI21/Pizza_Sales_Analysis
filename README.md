@@ -1,7 +1,7 @@
 ## Project Screenshots
 
 ### Home Page
-![Home Page](public/Home Dashboard.jpeg)
+![Home Page](public/Home_Dashboard.jpeg)
 
 
 
